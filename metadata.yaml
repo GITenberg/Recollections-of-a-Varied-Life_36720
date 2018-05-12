@@ -1,0 +1,32 @@
+_repo: Recollections-of-a-Varied-Life_36720
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36720-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Eggleston, George Cary
+    birthdate: 1839
+    deathdate: 1911
+    gutenberg_agent_id: '8154'
+    url: http://www.gutenberg.org/2009/agents/8154
+    wikipedia: https://en.wikipedia.org/wiki/George_Cary_Eggleston
+description: ''
+gutenberg_issued: '2011-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36720'
+  lccn: '10009800'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcsh 'Authors, American -- Biography'
+- !lcsh 'Journalists -- United States -- Biography'
+- !lcc 'PS'
+- !lcsh 'Eggleston, George Cary, 1839-1911'
+title: Recollections of a Varied Life
+url: http://www.gutenberg.org/ebooks/36720
